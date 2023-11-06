@@ -1,0 +1,15 @@
+__pycache__
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
+extra/
+sweeper_routes/
+*.csv
+*.json
+*.mov
+news.ipynb
+Text.ipynb
+temp.py
+env.py
+.env
+MVP*.ipynb
